@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arealator>
+  <users>
+    <user name="admin" last_name="" password="admin01">user@admin.com</user>
+    <user name="Gustavo" last_name="Rodriguez" password="gustavo01">garapower26@gmail.com</user>
+
+  </users>
+  <application>
+      <figuras>
+          <item id = "2" base="15.2" altura = "5.5" type = "rectangulo">15.2*5.5</item>
+          <item id = "3" base="5.5" altura = "5.5" type = "cuadrado">5.5*5.5</item>
+          <item id = "4" base="5.5" altura = "5.5" type = "triangulo">5.5*5.5</item>
+      </figuras>
+  </application>
+</arealator>
