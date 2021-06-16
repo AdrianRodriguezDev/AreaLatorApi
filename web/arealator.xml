@@ -3,7 +3,6 @@
   <users>
     <user name="admin" last_name="" password="admin01">user@admin.com</user>
     <user name="Gustavo" last_name="Rodriguez" password="gustavo01">garapower26@gmail.com</user>
-
   </users>
   <application>
       <figuras>
